@@ -11,5 +11,6 @@ eg:
         "aabbbcccddeee"      => ['b', 'c', 'e']
         "aabbccddeee"        => ['e']
         "aAAbcdaabdd"        => ['a', 'd']
-        "aabbbccddddaaa"     => ['a']
+        "aabbbccddddaaa"     => ['a'] 
         "aabbbcccddeeee"     => ['e']
+        
